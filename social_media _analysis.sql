@@ -10,7 +10,7 @@
 --
 -- STEP 1: Open your SQL client (MySQL Workbench, DBeaver, or SQLite Studio).
 -- STEP 2: Run the provided dataset file:
---         social_media_analytics_dataset.sql
+--       social_media_analytics_dataset.sql
 --
 -- This script will:
 --   ✅ Create a new database named `Social_Media`
